@@ -83,6 +83,3 @@ I enjoy exploring how technology and marketing can work together to solve real-w
     alt="GitHub contribution streak statistics"
   />
 </p>
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalkhitoliya01&theme=github-compact)
