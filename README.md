@@ -96,10 +96,3 @@ I enjoy exploring how technology and marketing can work together to solve real-w
   />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sujalkhitoliya01/Sujalkhitoliya01/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-</p>
