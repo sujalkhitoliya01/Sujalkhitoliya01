@@ -75,3 +75,14 @@ I enjoy exploring how technology and marketing can work together to solve real-w
 ---
 
 *Learning consistently. Building practically. Growing one project at a time.*
+
+## 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalkhitoliya01&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalkhitoliya01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkhitoliya01&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
