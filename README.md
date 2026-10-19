@@ -16,29 +16,29 @@ I'm focused on strengthening my programming fundamentals, learning by building, 
 
 ## 🧰 Technologies & Tools
 
-### Programming Languages
-## 🧰 Tech Stack
+### 💻 Programming Languages
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" alt="C, C++, Python, JavaScript, HTML and CSS" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="C, C++, Python, JavaScript, HTML and CSS" />
 </p>
 
-### Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs" alt="Git, GitHub, VS Code, React and Node.js" />
+### ⚙️ Development Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs&theme=dark" alt="Git, GitHub, VS Code, React and Node.js" />
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+### 🤖 AI & Creative Tools
+
+<p align="left">
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
+  </a>
+  <a href="https://base44.com/">
+    <img src="https://img.shields.io/badge/Base44-No--Code%20Development-635BFF?style=flat-square&logoColor=white" alt="Base44" />
+  </a>
 </p>
 
-<p><sub>Currently learning and exploring these technologies through practice and projects.</sub></p>
-
-### Development Tools & Technologies
-
-### AI & Creative Tools
 AI-assisted development tools, including Claude, and no-code development platforms such as Base44.
 
 ---
@@ -74,13 +74,19 @@ I enjoy exploring how technology and marketing can work together to solve real-w
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-khitoliya)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalkhitoliya1000@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sujal-khitoliya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:sujalkhitoliya1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email" />
+  </a>
+</p>
 
 ---
 
 *Learning consistently. Building practically. Growing one project at a time.*
+
 ## 🔥 My Stats
 
 <p align="center">
