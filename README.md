@@ -96,3 +96,43 @@ I enjoy exploring how technology and marketing can work together to solve real-w
   />
 </p>
 
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalkhitoliya01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com/?user=sujalkhitoliya01&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
+</p>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkhitoliya01&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+## 📦 Repository Overview
+
+<p align="center">
+  <a href="https://github.com/sujalkhitoliya01?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+</p>
+
+## ⭐ Stars & Milestones
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sujalkhitoliya01?style=for-the-badge&logo=github&label=Total%20Stars&color=8B5CF6" alt="Total GitHub stars" />
+  <img src="https://img.shields.io/github/followers/sujalkhitoliya01?style=for-the-badge&logo=github&label=Followers&color=2563EB" alt="GitHub followers" />
+</p>
+
+## 🏆 Featured Projects
+
+Explore my repositories and follow my progress as I build and improve practical projects.
+
+- [C++ Coding Practice](https://github.com/sujalkhitoliya01?tab=repositories) — Programming fundamentals and practice.
+- [Explore All Projects](https://github.com/sujalkhitoliya01?tab=repositories) — Browse my public repositories.
+
+---
+
