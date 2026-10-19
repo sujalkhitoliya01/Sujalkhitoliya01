@@ -75,14 +75,41 @@ I enjoy exploring how technology and marketing can work together to solve real-w
 ---
 
 *Learning consistently. Building practically. Growing one project at a time.*
-
-## 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalkhitoliya01&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalkhitoliya01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkhitoliya01&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img
+    src="https://streak-stats.demolab.com/?user=sujalkhitoliya01&background=161616&border=BDBDBD&stroke=444444&ring=FF9500&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9500&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub contribution streak statistics"
+  />
 </p>
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sujalkhitoliya01
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
